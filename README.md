@@ -6,9 +6,9 @@
 
 > Type-safe cross-tab message bus for the browser, built on the native `BroadcastChannel` API.
 
-[![npm](https://img.shields.io/npm/v/tabus)](https://www.npmjs.com/package/tabus)
-[![license](https://img.shields.io/npm/l/tabus)](./LICENSE)
-[![types](https://img.shields.io/npm/types/tabus)](./src/core/types.ts)
+[![npm](https://img.shields.io/npm/v/tabus-js)](https://www.npmjs.com/package/tabus-js)
+[![license](https://img.shields.io/npm/l/tabus-js)](./LICENSE)
+[![types](https://img.shields.io/npm/types/tabus-js)](./src/core/types.ts)
 
 ## Why
 
